@@ -6,6 +6,9 @@ a{
     color:black;
     text-decoration: none;
 }
+a:hover{
+    color:#6CC6C4;
+}
 header{
     height:120px;
 
